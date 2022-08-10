@@ -13,7 +13,7 @@ class App extends Component {
         <AmplifySignOut />
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>Hello from me, Hoang Luu<p>
+          <p>Hello from me, Hoang Luu</p>
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
